@@ -1,78 +1,72 @@
-{
-  "native": [
-          {
-      "id": 1,
-      "version": "1.0.0.1",
-      "description": "native app",
-      "title": "Tmdb",
-      "overview": "Info k filmum",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
-    }
-    ],
-  "web": [
-      {
-      "id": 1,
-      "version": "1.0.0.1",
-      "description": "web app",
-      "title": "Mini for YouTube",
-      "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
-    },
-    {
-      "id": 2,
-      "version": "1.2.0.4",
-      "description": "web app",
-      "title": "Mini for Facebook",
-      "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
-    },
-    {
-      "id": 3,
-      "version": "1.0.2.3",
-      "description": "web app",
-      "title": "Mini for Instagram",
-      "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
-    }
-    ],
-  "android": [
-          {
-      "id": 4,
-      "version": "1.0.0.1",
-      "description": "android app",
-      "title": "Jizdni rady",
-      "overview": "Jizdni rady, ke zjisteni spoje.",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
-    },
-    {
-      "id": 5,
-      "version": "1.2.0.4",
-      "description": "android app",
-      "title": "Lite",
-      "overview": "Messenger lite pro chatovani s prateli.",
-      "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
-    },
-    {
-      "id": 6,
-      "version": "1.0.2.3",
-      "description": "android app",
-      "title": "WhatsApp",
-      "overview": "Chatovani s prateli",
-      "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
-    }
+[
+  {
+    "id": 1,
+    "version": "1.0.0.1",
+    "description": "web app",
+    "title": "Mini for YouTube",
+    "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
+    "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+  },
+  {
+    "id": 2,
+    "version": "1.2.0.4",
+    "description": "web app",
+    "title": "Mini for Facebook",
+    "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
+    "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+  },
+  {
+    "id": 3,
+    "version": "1.0.2.3",
+    "description": "web app",
+    "title": "Mini for Instagram",
+    "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
+    "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+  },
+  {
+    "id": 4,
+    "version": "1.0.0.1",
+    "description": "native app",
+    "title": "Tmdb",
+    "overview": "Info k filmum",
+    "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+  },
+  {
+    "id": 5,
+    "version": "1.0.0.1",
+    "description": "android app",
+    "title": "Jizdni rady",
+    "overview": "Jizdni rady, ke zjisteni spoje.",
+    "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+  },
+  {
+    "id": 6,
+    "version": "1.2.0.4",
+    "description": "android app",
+    "title": "Lite",
+    "overview": "Messenger lite pro chatovani s prateli.",
+    "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+  },
+  {
+    "id": 7,
+    "version": "1.0.2.3",
+    "description": "android app",
+    "title": "WhatsApp",
+    "overview": "Chatovani s prateli",
+    "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
+    "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
+    "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+  }
 ]
-}
