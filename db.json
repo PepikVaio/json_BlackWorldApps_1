@@ -5,10 +5,9 @@
       "version": "1.0.0.1",
       "description": "web",
       "title": "Mini for YouTube",
-      "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
+      "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/' in the native BlackBerrybrowser.",
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db"
     },
     {
       "id": 3,
@@ -27,48 +25,43 @@
       "title": "Mini for Instagram",
       "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     },
     {
       "id": 4,
       "version": "1.0.0.1",
       "description": "native",
       "title": "Tmdb",
-      "overview": "Info k filmum",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+      "overview": "Info about movies, tv shows and peoples.",
+      "icon_path": "",
+      "url_path": ""
     },
     {
       "id": 5,
       "version": "1.0.0.1",
       "description": "android",
-      "title": "Jizdni rady",
-      "overview": "Jizdni rady, ke zjisteni spoje.",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+      "title": "Jizdní řády",
+      "overview": "Naplánuje cestu autobusy, vlaky i MHD po celé ČR a ukáže trasu na mapě.",
+      "icon_path": "",
+      "url_path": ""
     },
     {
       "id": 6,
       "version": "1.2.0.4",
       "description": "android",
       "title": "Lite",
-      "overview": "Messenger lite pro chatovani s prateli.",
-      "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+      "overview": "Rychlejší verze Messengeru, která funguje při jakékoli rychlosti připojení.",
+      "icon_path": "",
+      "url_path": ""
     },
     {
       "id": 7,
       "version": "1.0.2.3",
       "description": "android",
       "title": "WhatsApp",
-      "overview": "Chatovani s prateli",
-      "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+      "overview": "Jednoduchý, bezpečný, soukromý.",
+      "icon_path": "",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     }
   ]
 }
