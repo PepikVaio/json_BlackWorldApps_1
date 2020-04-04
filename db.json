@@ -5,7 +5,7 @@
       "version": "1.0.0.1",
       "description": "web",
       "title": "Mini for YouTube",
-      "overview": "App displays youtube.com in native blackberry browser.",
+      "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
@@ -14,7 +14,7 @@
       "version": "1.2.0.4",
       "description": "web",
       "title": "Mini for Facebook",
-      "overview": "App displays touch.facebook.com in native blackberry browser.",
+      "overview": "App displays the website touch.facebook.com in native blackberry browser.",
       "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db"
     },
@@ -23,7 +23,7 @@
       "version": "1.0.2.3",
       "description": "web",
       "title": "Mini for Instagram",
-      "overview": "App displays instagram.com in native blackberry browser.",
+      "overview": "App displays the website instagram.com in native blackberry browser.",
       "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     },
