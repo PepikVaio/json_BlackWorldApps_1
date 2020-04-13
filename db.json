@@ -1,15 +1,6 @@
 {
   "apps": [
     {
-      "id": 0,
-      "version": "1.0.0.1",
-      "description": "native",
-      "title": "BlackWorld",
-      "overview": "A new store for your apps for BlackBerry devices.",
-      "icon_path": "https://i.postimg.cc/VL5tcWMY/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/blackworld/db"
-    },
-    {
       "id": 1,
       "version": "1.0.0.1",
       "description": "web",
