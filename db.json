@@ -62,6 +62,15 @@
       "overview": "Jednoduchý, bezpečný, soukromý.",
       "icon_path": "",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
+    },
+    {
+      "id": 8,
+      "version": "0.0.0.1",
+      "description": "native app",
+      "title": "Test.. APP",
+      "overview": "App was creating for testing webpages.",
+      "icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/test_app/db"
     }
   ]
 }
