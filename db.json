@@ -7,7 +7,7 @@
       "title": "Mini for YouTube",
       "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/K8S8sPDp/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/m_youtube/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.youtube/db"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "title": "Mini for Facebook",
       "overview": "App displays the website touch.facebook.com in native blackberry browser.",
       "icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/m_facebook/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "title": "Mini for Instagram",
       "overview": "App displays the website instagram.com in native blackberry browser.",
       "icon_path": "https://i.postimg.cc/zfN33CLH/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/m_instagram/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "title": "Tmdb",
       "overview": "Info about movies, tv shows and peoples.",
       "icon_path": "https://i.postimg.cc/KjWDyq8M/Icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/tmdb/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_tmdb/db"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
       "title": "WhatsApp",
       "overview": "Jednoduchý, bezpečný, soukromý.",
       "icon_path": "",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/m_instagram/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "title": "Test.. APP",
       "overview": "App was creating for testing webpages.",
       "icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/test_app/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_testapp/db"
     }
   ]
 }
