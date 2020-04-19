@@ -32,7 +32,7 @@
       "version": "1.0.0.1",
       "description": "native",
       "title": "Tmdb",
-      "overview": "Info about movies, tv shows and peoples.",
+      "overview": "This app shows the list of movies and tv shows from https://www.themoviedb.org",
       "icon_path": "https://i.postimg.cc/KjWDyq8M/Icon-300x300.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/app_tmdb/db"
     },
@@ -41,27 +41,27 @@
       "version": "1.0.0.1",
       "description": "android",
       "title": "Jizdní řády",
-      "overview": "Naplánuje cestu autobusy, vlaky i MHD po celé ČR a ukáže trasu na mapě.",
-      "icon_path": "",
-      "url_path": ""
+      "overview": "S jízdními řády od Seznamu můžete snadno naplánovat cestu autobusem, MHD nebo vyhledat vlakové spojení.",
+      "icon_path": "https://i.postimg.cc/J7D1PjNP/icon-300x300.png",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_jizdnirady/db"
     },
     {
       "id": 6,
       "version": "1.2.0.4",
       "description": "android",
-      "title": "Lite",
-      "overview": "Rychlejší verze Messengeru, která funguje při jakékoli rychlosti připojení.",
-      "icon_path": "",
-      "url_path": ""
+      "title": "Messenger Lite",
+      "overview": "Aplikace pro posílání zpráv, která efektivně využívá data a umožní vám rychle se spojit s lidmi ve vašem životě.",
+      "icon_path": "https://i.postimg.cc/LXzMF3xp/icon-300x300.png",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_messengerlite/db"
     },
     {
       "id": 7,
       "version": "1.0.2.3",
       "description": "android",
-      "title": "WhatsApp",
-      "overview": "Jednoduchý, bezpečný, soukromý.",
-      "icon_path": "",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
+      "title": "WhatsApp Messenger",
+      "overview": "WhatsApp od Facebooku.",
+      "icon_path": "https://i.postimg.cc/gk143bYg/icon-300x300.png",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_whatsAppmessenger/db"
     },
     {
       "id": 8,
