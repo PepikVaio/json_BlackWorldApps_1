@@ -30,15 +30,6 @@
     {
       "id": 4,
       "version": "1.0.0.1",
-      "description": "native",
-      "title": "Tmdb",
-      "overview": "This app shows the list of movies and tv shows from https://www.themoviedb.org",
-      "icon_path": "https://i.postimg.cc/KjWDyq8M/Icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_tmdb/db"
-    },
-    {
-      "id": 5,
-      "version": "1.0.0.1",
       "description": "android",
       "title": "Jizdní řády",
       "overview": "S jízdními řády od Seznamu můžete snadno naplánovat cestu autobusem, MHD nebo vyhledat vlakové spojení.",
@@ -46,7 +37,7 @@
       "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_jizdnirady/db"
     },
     {
-      "id": 6,
+      "id": 5,
       "version": "1.2.0.4",
       "description": "android",
       "title": "Messenger Lite",
@@ -55,7 +46,7 @@
       "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_messengerlite/db"
     },
     {
-      "id": 7,
+      "id": 6,
       "version": "1.0.2.3",
       "description": "android",
       "title": "WhatsApp Messenger",
@@ -64,7 +55,7 @@
       "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_whatsAppmessenger/db"
     },
     {
-      "id": 8,
+      "id": 9,
       "version": "0.0.0.1",
       "description": "native",
       "title": "Test.. APP",
