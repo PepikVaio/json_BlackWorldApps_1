@@ -8,8 +8,8 @@
       "description": "web",
       "title": "Mini for YouTube",
       "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
-      "icon_path": "K8S8sPDp",
-      "url_path": "app_m.youtube"
+      "icon_path": "https://i.postimg.cc/K8S8sPDp/icon-300x300.png" //"K8S8sPDp",
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.youtube/db" //"app_m.youtube"
     },
     {
       "id": 2,
