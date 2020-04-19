@@ -1,3 +1,5 @@
+// var icon_path = "https://i.postimg.cc/" + apps.icon_path + "/icon-300x300.png"
+// var url_path = "http://my-json-server.typicode.com/pepikvaio/ + apps.url_path + "/db"
 {
   "apps": [
     {
@@ -6,8 +8,8 @@
       "description": "web",
       "title": "Mini for YouTube",
       "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/K8S8sPDp/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.youtube/db"
+      "icon_path": "K8S8sPDp",
+      "url_path": "app_m.youtube"
     },
     {
       "id": 2,
@@ -15,8 +17,8 @@
       "description": "web",
       "title": "Mini for Facebook",
       "overview": "App displays the website touch.facebook.com in native blackberry browser.",
-      "icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
+      "icon_path": "ZqPBL7kL",
+      "url_path": "app_m.facebook"
     },
     {
       "id": 3,
@@ -24,17 +26,17 @@
       "description": "web",
       "title": "Mini for Instagram",
       "overview": "App displays the website instagram.com in native blackberry browser.",
-      "icon_path": "https://i.postimg.cc/zfN33CLH/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
+      "icon_path": "zfN33CLH",
+      "url_path": "app_m.instagram"
     },
     {
       "id": 4,
-      "version": "1.0.0.1",
+      "version": "5.17.1.1",
       "description": "android",
       "title": "Jizdní řády",
       "overview": "S jízdními řády od Seznamu můžete snadno naplánovat cestu autobusem, MHD nebo vyhledat vlakové spojení.",
-      "icon_path": "https://i.postimg.cc/J7D1PjNP/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_jizdnirady/db"
+      "icon_path": "J7D1PjNP",
+      "url_path": "apk_jizdnirady"
     },
     {
       "id": 5,
@@ -42,17 +44,17 @@
       "description": "android",
       "title": "Messenger Lite",
       "overview": "Aplikace pro posílání zpráv, která efektivně využívá data a umožní vám rychle se spojit s lidmi ve vašem životě.",
-      "icon_path": "https://i.postimg.cc/LXzMF3xp/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_messengerlite/db"
+      "icon_path": "LXzMF3xp",
+      "url_path": "apk_messengerlite"
     },
     {
       "id": 6,
-      "version": "1.0.2.3",
+      "version": "2.20.123",
       "description": "android",
       "title": "WhatsApp Messenger",
       "overview": "WhatsApp od Facebooku.",
-      "icon_path": "https://i.postimg.cc/gk143bYg/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/apk_whatsAppmessenger/db"
+      "icon_path": "gk143bYg",
+      "url_path": "apk_whatsAppmessenger"
     },
     {
       "id": 9,
@@ -60,8 +62,8 @@
       "description": "native",
       "title": "Test.. APP",
       "overview": "App was creating for testing webpages.",
-      "icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_test..app/db"
+      "icon_path": "pL5JDNwK",
+      "url_path": "app_test..app"
     }
   ]
 }
