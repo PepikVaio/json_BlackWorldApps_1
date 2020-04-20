@@ -57,7 +57,7 @@ var url_path = "http://my-json-server.typicode.com/pepikvaio/" + apps.url_path +
       "title": "WhatsApp Messenger",
       "overview": "WhatsApp od Facebooku.",
       "icon_path": "gk143bYg",
-      "url_path": "apk_whatsAppmessenger"
+      "url_path": "apk_whatsappmessenger"
     },
     {
       "id": 9,
