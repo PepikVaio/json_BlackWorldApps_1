@@ -63,5 +63,10 @@
       "icon_path": "pL5JDNwK",
       "url_path": "app_testapp"
     }
+  ],
+    "next": [
+    {
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/json_blackworldapps_02/db"
+    }
   ]
 }
